@@ -37,8 +37,12 @@
   <img src="https://skillicons.dev/icons?i=python,sql" />
 </p>
 
-## 🔗 Zoho & Scripting
-- Deluge (Zoho Cliq Bot Development & Widget Integration)
+## 🔗 Zoho Ecosystem & Scripting
+<p align="center">
+  <img src="https://img.shields.io/badge/Zoho%20Cliq-Red?style=for-the-badge&logo=zoho&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deluge-Scripting-blue?style=for-the-badge" />
+</p>
+
 
 ## 🤖 Machine Learning & AI Frameworks
 <p align="center">
