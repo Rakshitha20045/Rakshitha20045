@@ -1,4 +1,4 @@
-<h1 align="center">Rakshitha A</h1>
+<h1 align="center">Hi, I'm Rakshitha A</h1>
 <h3 align="center">ML Engineer | AI Developer | Zoho Cliqtrix'26 Top 35</h3>
 
 <p align="center">
