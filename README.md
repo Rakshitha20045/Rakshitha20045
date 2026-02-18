@@ -79,17 +79,18 @@
 
 ---
 
-# 📊 Coding Profiles
+# 🧩 Coding Profiles
 
-### 🔥 LeetCode
+### LeetCode
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/rakshi6578?theme=dark&font=baloo&ext=heatmap" />
 </p>
 
-### 💙 GeeksforGeeks
+### GeeksforGeeks
 <p align="center">
   <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=rakshirkr4" />
 </p>
+
 
 ---
 
