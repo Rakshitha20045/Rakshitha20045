@@ -17,24 +17,35 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech – Artificial Intelligence & Data Science  
-- 💡 Passionate about Machine Learning & Intelligent Systems  
+- 💡 Passionate about Intelligent Systems, NLP, and Scalable Software Development
 - 🔥 Strong in DSA, Backend Logic & AI-based Applications  
-- 🎯 Aspiring to build scalable ML-powered products  
+- 🎯 Focused on building scalable systems and intelligent applications
 
 ---
 
-# 🛠️ Tech Stack
 
-### 💻 Languages
+
+# ⚙️ Tech Stack
+
+## 🎨 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### 🤖 Machine Learning & Libraries
+## 🧠 Backend & Programming
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql" />
+</p>
+
+## 🔗 Zoho & Scripting
+- Deluge (Zoho Cliq Bot Development & Widget Integration)
+
+## 🤖 Machine Learning & AI Frameworks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 </p>
 
+## 🛠️ Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
