@@ -1,65 +1,72 @@
-<h1 align="center">Hi 👋 I'm Rakshitha</h1>
-<h3 align="center">🚀 Python Developer | AI/ML Enthusiast | DSA Problem Solver</h3>
+<h1 align="center">Hi 👋 I'm Rakshitha A</h1>
+<h3 align="center">🚀 AI Engineer | Python Developer | Zoho Cliqtrix Top 35</h3>
 
 <p align="center">
-  <a href="https://github.com/Rakshitha20045">
-    <img src="https://komarev.com/ghpvc/?username=Rakshitha20045&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&size=24&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Zoho+Cliqtrix+Top+35+Team;200%2B+DSA+Problems+Solved;Building+Real-World+AI+Systems" />
 </p>
 
 ---
 
 ## 🏆 Achievements
 
-🥇 **Top 35 Teams – Zoho Cliqtrix 2026 (Round 1 Shortlisted)**  
-🚀 Built a Production-Ready Bot: **WellTask – Zoho Cliq Productivity Bot**
+🥇 **Top 35 Teams – Zoho Cliqtrix 2026 (Zoho Cliq Track)**  
+🧠 Solved **200+ DSA Problems** (LeetCode + GFG)  
+🤖 AI Intern – YOLOv8 Object Detection (90%+ accuracy)
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Student passionate about building real-world solutions
-- 💡 Strong in Python, DSA, and Backend Logic
-- 🤖 Interested in AI/ML & Intelligent Automation
-- 📈 Consistently solving DSA problems
-- 🎯 Goal: Work in a product-based company and build scalable systems
+- 🎓 B.Tech – Artificial Intelligence & Data Science  
+- 💡 Passionate about AI, ML, and scalable backend systems  
+- 🔥 Strong in Python, Computer Vision & DSA  
+- 🎯 Goal: Build intelligent systems in product-based companies  
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 👩‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,sql" />
-</p>
-
-### ⚙️ Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
-### 🤖 AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,tensorflow,pytorch,opencv,sklearn,pandas,numpy,git,github,vscode,linux" />
 </p>
 
 ---
 
-## 🌟 Featured Project
+# 🌟 Featured Projects
 
-### 🔹 WellTask – Zoho Cliq Productivity Bot  
-📌 GitHub: https://github.com/Rakshitha20045/WellTask-ZohoCliq-Bot  
+## 🔹 WellTask – Real-Time Productivity Bot & Widget for Zoho Cliq  
+🔗 https://github.com/Rakshitha20045/WellTask-ZohoCliq-Bot  
 
-- 🧠 Real-time productivity tracking
-- 🔔 Smart reminders & task management
-- 🔗 Integrated with Zoho Cliq ecosystem
-- 🏗️ Designed for scalable team productivity
-
-> Built during Zoho Cliqtrix 2026 Hackathon
+- Production-ready Zoho Cliq bot with integrated widget
+- Real-time task management & dashboard
+- Focus Hub with Pomodoro tracking
+- Automated reminders & notifications
+- Built for Zoho Cliqtrix 2026 Hackathon
 
 ---
 
-## 📊 GitHub Stats
+## 🔹 CNN-Based Road Condition Classifier  
+🔗 https://github.com/Rakshitha20045/Road_Condition_Classification  
+
+- 92%+ accuracy on custom dataset
+- OpenCV preprocessing & augmentation
+- Optimized CNN reducing training time by 25%
+
+---
+
+# 📊 Coding Profiles
+
+### 🔥 LeetCode
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/rakshi6578?theme=dark&font=baloo&ext=heatmap" />
+</p>
+
+### 💙 GeeksforGeeks
+🔗 https://www.geeksforgeeks.org/profile/rakshirkr4
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rakshitha20045&show_icons=true&theme=tokyonight" />
@@ -68,19 +75,7 @@
 
 ---
 
-## 📌 Currently Working On
-
-- 🔥 Advanced Data Structures & Algorithms
-- 🤖 Machine Learning Projects
-- 🏗️ Building scalable backend systems
-
----
-
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (Add your LinkedIn link here)
-- 📧 Email: (Add your email)
-
----
-
-⭐️ If you like my work, feel free to explore my repositories!
+- 💼 LinkedIn: https://linkedin.com/in/rakshitha-a-4320a3274  
+- 📧 Email: rakshi6578@gmail.com
