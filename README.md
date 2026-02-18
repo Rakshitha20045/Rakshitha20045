@@ -2,8 +2,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&size=24&center=true&vCenter=true&width=800&lines=Machine+Learning+Engineer;AI+Developer;Zoho+Cliqtrix'26+–+Round+1+Shortlisted+(Top+35+Teams,+Zoho+Cliq+Track);200%2B+DSA+Problems+Solved;Building+Scalable+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&size=24&center=true&vCenter=true&width=750&duration=3000&pause=1000&lines=Machine+Learning+Engineer;AI+Developer;Zoho+Cliqtrix'26;Round+1+Shortlisted+–+Top+35+Teams;200%2B+DSA+Problems+Solved;Building+Scalable+Intelligent+Systems" />
 </p>
+
 
 
 
