@@ -12,7 +12,7 @@
 
 ## 🏆 Achievements
 
-🥇 Shortlisted in **Zoho Cliqtrix'26 – Bot Building Contest (Top 35 Teams)**  
+🥇 Shortlisted in **Round 1 of Zoho Cliqtrix'26 – Bot Building Contest (Top 35 Teams)**  
 🧠 Solved 200+ DSA Problems (LeetCode + GeeksforGeeks)
 
 ---
