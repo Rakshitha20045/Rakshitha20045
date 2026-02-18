@@ -108,5 +108,11 @@
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/rakshitha-a-4320a3274  
-- 📧 Email: rakshi6578@gmail.com
+<p align="center">
+  <a href="https://linkedin.com/in/rakshitha-a-4320a3274">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:rakshi6578@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
