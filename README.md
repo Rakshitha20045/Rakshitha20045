@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rakshitha A</h1>
-<h3 align="center">ML Engineer | AI Developer | Zoho Cliqtrix'26 Top 35</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&size=24&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;AI+Developer;Zoho+Cliqtrix'26+Top+35;200%2B+DSA+Problems+Solved;Building+Intelligent+Systems" />
